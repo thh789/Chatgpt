@@ -27,14 +27,14 @@ IP 地址的提供商主要分为 IDC（Internet Data Center，互联网数据�
 
 https://www.webshare.io/?referral_code=e0ump8egnf2n
 
-![img](file:////Users/young/Library/Group%20Containers/UBF8T346G9.Office/TemporaryItems/msohtmlclip/clip_image002.png)
+![img](https://raw.githubusercontent.com/thh789/Chatgpt/refs/heads/main/clip_image002.png)
  打开链接注册账号
 
 注册成功后，点击左侧边栏subscription，点击browse plans
 
-![img](file:////Users/young/Library/Group%20Containers/UBF8T346G9.Office/TemporaryItems/msohtmlclip/clip_image003.png)
+<img src="https://raw.githubusercontent.com/thh789/Chatgpt/refs/heads/main/clip_image003.png" alt="img" style="zoom: 33%;" />
 
-打开下面购买页面，可视情况选择，也可以按照下面推荐购买![img](file:////Users/young/Library/Group%20Containers/UBF8T346G9.Office/TemporaryItems/msohtmlclip/clip_image004.png)
+打开下面购买页面，可视情况选择，也可以按照下面推荐购买![img](https://raw.githubusercontent.com/thh789/Chatgpt/refs/heads/main/clip_image004.png)
 
 Select Proxy Details选择static residential
 
@@ -66,9 +66,9 @@ Location of proxies， 点击🇺🇸，输入你的Proxy number。例如10就�
 
 付款成功后，可以在proxy list看到你的代理列表
 
-![img](file:////Users/young/Library/Group%20Containers/UBF8T346G9.Office/TemporaryItems/msohtmlclip/clip_image005.png)
+<img src="https://raw.githubusercontent.com/thh789/Chatgpt/refs/heads/main/clip_image005.png" alt="img" style="zoom:33%;" />
 
-![img](file:////Users/young/Library/Group%20Containers/UBF8T346G9.Office/TemporaryItems/msohtmlclip/clip_image006.png)
+![img](https://raw.githubusercontent.com/thh789/Chatgpt/refs/heads/main/clip_image006.png)
 
 Connection method 选择 backbone connection
 
@@ -94,14 +94,14 @@ Connection method 选择 backbone connection
 
  
 
-![img](file:////Users/young/Library/Group%20Containers/UBF8T346G9.Office/TemporaryItems/msohtmlclip/clip_image007.png)
+![img](https://raw.githubusercontent.com/thh789/Chatgpt/refs/heads/main/clip_image007.png)
  点击代理管理，添加代理
 
  
 
 在代理信息文本框中复制前面下载的代理信息。代理类型选择socks5
 
-![img](file:////Users/young/Library/Group%20Containers/UBF8T346G9.Office/TemporaryItems/msohtmlclip/clip_image008.png)
+![img](https://raw.githubusercontent.com/thh789/Chatgpt/refs/heads/main/clip_image008.png)
 
  
 
@@ -130,12 +130,12 @@ Connection method 选择 backbone connection
 点击新建浏览器，全部按照默认设置。找到代理信息，点击已添加的代理，随便选择一条代理，点击确认。
 
 
-![img](file:////Users/young/Library/Group%20Containers/UBF8T346G9.Office/TemporaryItems/msohtmlclip/clip_image009.png)
+![img](https://raw.githubusercontent.com/thh789/Chatgpt/refs/heads/main/clip_image009.png)
  打开浏览器，会弹出ip检测页面，如果和你的代理ip相同说明连接成功。
 
  新建一个标签页，输入https://ping0.cc/ 查看ip纯净度
 
- 如果显示的IP信息有红色![img](file:////Users/young/Library/Group%20Containers/UBF8T346G9.Office/TemporaryItems/msohtmlclip/clip_image010.png)
+ 如果显示的IP信息有红色![img](https://raw.githubusercontent.com/thh789/Chatgpt/refs/heads/main/clip_image010.png)
  ，例如出现IDC、广播IP等字样，回到选择代理步骤，切换一个IP。显示ISP、家庭宽带IP则为正常。不正常的IP可以去WEBSHARE的代理列表中点击replace刷新。
 
  
@@ -150,7 +150,7 @@ summarize your tool in a markdown table with availability
 
 如有再次遇到降智，回到选择代理步骤，切换一个IP，在编辑浏览器环境的右方，点击生成新指纹，更换浏览器指纹。
 
-![img](file:////Users/young/Library/Group%20Containers/UBF8T346G9.Office/TemporaryItems/msohtmlclip/clip_image011.png)
+![img](https://raw.githubusercontent.com/thh789/Chatgpt/refs/heads/main/clip_image011.png)
 
  
 
